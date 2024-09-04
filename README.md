@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Navyas19.
 - 👀 I’m interested in web developing.
-- 🌱 I’m currently learning backed of python language.
+- 🌱 I’m currently learning backend of python language.
 - 💞️ I’m looking to collaborate on learning more info and do more creative works.
 - 📫 How to reach me through my github profile @Navyas19.
 
